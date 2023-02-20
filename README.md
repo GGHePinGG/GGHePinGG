@@ -2,7 +2,7 @@
 - 👀 I’m interested in Play Games And Coding
 - 🌱 I’m currently learning Maths
 - 💞️ I’m looking to collaborate on ？
-- 📫 How to reach me admin@imhpg.ml
+- 📫 How to reach me hpg@imhpg.ml
 
 <!---
 GGHePinGG/GGHePinGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
