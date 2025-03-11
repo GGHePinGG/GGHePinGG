@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ItsPigeonaua
+- 👋 Hi, I’m @HPG6
 - 👀 I’m interested in Play Games And Coding
-- 🌱 I’m currently learning Maths
-- 💞️ I’m looking to collaborate on ？
-- 📫 How to reach me hpg@imhpg.ml
+- 🌱 I’m currently learning
+- 📫 How to reach me admin@070624.xyz
 
 <!---
 GGHePinGG/GGHePinGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
